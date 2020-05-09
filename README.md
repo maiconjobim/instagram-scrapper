@@ -44,16 +44,3 @@ You can make builds for specific platforms (or multiple platforms) by using the 
 ```bash
 npm run dist -- -mwl
 ```
-
-## Husky and Prettier
-This project comes with both Husky and Prettier setup to ensure a consistent code style. 
-
-To change the code style, you can change the configuration in `.prettierrc`. 
-
-In case you want to get rid of this, you can removing the following from `package.json`:
-
-1. Remove `precommit` from the `scripts` section
-1. Remove the `lint-staged` section
-1. Remove `lint-staged`, `prettier`, `eslint-config-prettier`, and `husky` from the `devDependencies`
-
-Also remove all mentions of Prettier from the `extends` section in `.eslintrc.json`.
