@@ -93,6 +93,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
     "@hot-loader/react-dom": "^16.8.6",
+    "@types/axios": "^0.14.0",
     "@types/electron-devtools-installer": "^2.2.0",
     "@types/jest": "^24.0.13",
     "@types/react": "^16.8.18",
@@ -141,6 +142,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",

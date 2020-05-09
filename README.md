@@ -1,21 +1,10 @@
-# electron-react-typescript
-
-### A Boilerplate for an Easy Start with TypeScript, React, and Electron.
-
-[![React](docs/img/react.png)](https://reactjs.org/)
-[![Webpack](docs/img/webpack.png)](https://webpack.js.org/)
-[![TypeScript](docs/img/ts.png)](https://www.typescriptlang.org/)
-[![Electron](docs/img/electron.png)](https://electronjs.org/)
-[![Redux](docs/img/redux.png)](https://redux.js.org/)
-[![Jest](docs/img/jest.png)](https://facebook.github.io/jest/)
-
-[Electron](https://electronjs.org/) application boilerplate based on [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Webpack](https://webpack.js.org/) for rapid application development using [TypeScript](https://www.typescriptlang.org/).
+# Teste
 
 ## Install
 Clone the repository with Git:
 
 ```bash
-git clone --depth=1 git@github.com:Robinfr/electron-react-typescript.git <your-project-name>
+git clone git@github.com:maiconjobim/instgram-scrapper.git
 ```
 
 And then install the dependencies:
@@ -68,9 +57,3 @@ In case you want to get rid of this, you can removing the following from `packag
 1. Remove `lint-staged`, `prettier`, `eslint-config-prettier`, and `husky` from the `devDependencies`
 
 Also remove all mentions of Prettier from the `extends` section in `.eslintrc.json`.
-
-## About this project
-This project was set up from scratch but is heavily influenced by the [Electron React Boilerplate project](https://github.com/chentsulin/electron-react-boilerplate) and [React Redux TypeScript guide](https://github.com/piotrwitek/react-redux-typescript-guide).
-
-## License
-MIT © [R. Franken](https://github.com/Robinfr)
