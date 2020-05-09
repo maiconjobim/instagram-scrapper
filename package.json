@@ -62,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:maiconjobim/instgram-scrapper.git"
+    "url": "git@github.com:maiconjobim/instagram-scrapper.git"
   },
   "author": {
     "name": "Maicon Jobim",
@@ -70,9 +70,9 @@
   },
   "license": "SEE LICENSE",
   "bugs": {
-    "url": "https://github.com/maiconjobim/instgram-scrapper/issues"
+    "url": "https://github.com/maiconjobim/instagram-scrapper/issues"
   },
-  "homepage": "https://github.com/maiconjobim/instgram-scrapper",
+  "homepage": "https://github.com/maiconjobim/instagram-scrapper",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
